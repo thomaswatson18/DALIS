@@ -1,4 +1,8 @@
 # DALIS
+
+Simply download the data file from Sam's sharepoint (for the group you wanto plot), and run the script.
+The script will prompt you to click the excel file you downloaded of interest.
+
 To run this script, you need to have the following Python packages installed:
 
 - `pandas` for data manipulation.
@@ -11,5 +15,3 @@ You can install the necessary packages using pip:
 pip install pandas matplotlib
 
 
-Then, simply download the data file from Sam's sharepoint (for the group you wanto plot), and run the script.
-The script will prompt you to click the excel file you downloaded of interest.
