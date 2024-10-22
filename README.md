@@ -9,3 +9,7 @@ You can install the necessary packages using pip:
 
 ```bash
 pip install pandas matplotlib
+
+
+Then, simply download the data file from Sam's sharepoint (for the group you wanto plot), and run the script.
+The script will prompt you to click the excel file you downloaded of interest.
